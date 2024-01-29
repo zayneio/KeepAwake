@@ -1,0 +1,15 @@
+{
+  "name": "Methylamine",
+  "version": "1.0.0",
+  "description": "An Amphetamine clone built with electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}

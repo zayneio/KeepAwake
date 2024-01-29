@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Methylamine</title>
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+  
+  <div id="current-session">
+    <div id="text">Current Session:</div>
+    <div id="timer">00:00</div>
+  </div>
+
+  <div id="custom-time">
+    <input type="number" id="custom-time-value" placeholder="Enter time" min="0">
+    <button id="hours-button" class="time-unit-button active">H</button>
+    <button id="minutes-button" class="time-unit-button">M</button>
+    <button id="add-time">+</button>
+  </div>
+  
+  <div id="session-controls"  class="button-wrapper">
+    <button id="start-session">Start Session</button>
+    <button id="end-session" class="hide">End Session</button>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
