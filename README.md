@@ -1,6 +1,6 @@
-# KeepAwake
+# Methylamine
 
-KeepAwake is a simple Amphetamine clone built with Electron. Keep your laptop awake!
+Methylamine is a simple Amphetamine clone built with Electron. Keep your laptop awake!
 
 <img width="374" alt="Methylamine" src="https://github.com/zayneio/methylamine/assets/37857673/a48d53c0-fd26-45a4-b1d1-dfac07ed7bd2">
 
