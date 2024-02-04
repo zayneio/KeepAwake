@@ -12,6 +12,11 @@ https://github.com/zayneio/methylamine/assets/37857673/6ab12da9-2b02-4428-a1b4-2
 
 ---
 
+### Build it yourself
+All of my notes on building this app from scratch step by step can be found here https://zayne.io/articles/build-an-amphetamine-clone-with-electron
+
+---
+
 ### Run it on your local machine:
 ```shell
 npm install
